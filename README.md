@@ -11,18 +11,13 @@ Csgo multihack made with C#,Autohotkey
 ![image](https://github.com/Aapoxix/Solaris-Multihack/assets/140962895/b8e80de2-a290-4272-80d0-2e7642c32be0)
 
 # Features
-- Visuals🪐 
 - Esp box
 - Tracers
 - Head
 - Names
-
-- Misc🪐 
 - Bhop
 - RCS
 - Recoil crosshair
-
-- Aim🪐 
 - Triggerbot (Semi ass)
 
 # Support/credits
